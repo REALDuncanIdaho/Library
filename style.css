@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(73, 70, 107);
+    text-align: center;
+    color: azure;
+}
+
+#bookTable {
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid;
+    border-spacing: 30px;
+    background-color: rgb(33, 33, 75)    
+}
+
+#showForm {
+    margin-bottom: 20px;
+}
